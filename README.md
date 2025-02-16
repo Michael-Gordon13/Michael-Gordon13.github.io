@@ -1,4 +1,4 @@
-# g010645m.github.io
+# Michael-Gordon13.github.io
 The purpose of this repository is to contain all of the data/information relating to my portfolio website, which has been created as part of the Professional Development & Games Industry Employability module.
 
 The webpage is divided into **four** main sections:
